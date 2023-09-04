@@ -47,19 +47,19 @@ export default {
       public: true,
       antiCall: true, // reject call
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["6288292024190"], // set owner number on here
+      owner: ["6283142108935"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-      pairingNumber: "" // Example Input : 62xxx
+      pairingNumber: "6283142108935" // Example Input : 62xxx
    },
 
    // Set pack name sticker on here
    Exif: {
-      packId: "https://dikaardnt.my.id",
+      packId: "https://s.id/ciyomono",
       packName: `Sticker Ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "okeae2410@gmail.com",
-      packWebsite: "https://dikaardnt.my.id",
+      packPublish: "Mono.",
+      packEmail: "duwicahyo010@gmail.com",
+      packWebsite: "https://s.id/ciyomono",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
